@@ -1,0 +1,225 @@
+body {
+    background: #DEDEDE !important;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* Navigation Bar */
+.navbar-toggler {
+    border-color: white;
+
+}
+
+.custom-nav-brand {
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 4%
+}
+
+.toggler-icon {
+    color: white;
+}
+
+.fa-bars {
+    color: white;
+}
+
+.navbar-nav .nav-link {
+    font-size: 14px;
+}
+
+/* Main Section */
+.main {
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('./images/river.jpg');
+    background-size: cover;
+    height: 650px;
+    background-position: center;
+}
+
+.div-position {
+    margin-top: -48px;
+}
+
+.main-content {
+    color: #fff;
+    padding-top: 115px;
+}
+
+.section-align {
+    margin-top: -48px;
+}
+
+.contentnew {
+    margin-top: -48px;
+}
+
+.main-content button {
+    font-size: 13px;
+    color: #fff;
+}
+
+.btn-danger {
+    color: #f3051c;
+    background-color: #f3051c;
+    border-color: #f3051c;
+    margin-left: 1rem;
+}
+
+.member-socialmedia .ml-3,
+.mx-3 {
+    margin-left: 1rem !important;
+}
+
+
+button.ml-3,
+.mx-3 {
+    margin-left: 0rem !important;
+}
+
+/* Product-detail */
+.comments-icon {
+    color: #24BCD4;
+    font-size: 40px;
+}
+
+.user-check-icon {
+    color: #4CAF4F;
+    font-size: 40px;
+}
+
+.fingerprint-icon {
+    color: #F44337;
+    font-size: 40px;
+}
+
+.detail-description {
+    font-size: 13px;
+    line-height: 1.9;
+}
+
+/* Our Team */
+.team-members {
+    color: #3C4857;
+}
+
+.media {
+    padding: -0.5rem !important;
+}
+
+
+.fa-linkedin-in {
+    color: #0975B4;
+}
+
+.fa-youtube {
+    color: #E52D27;
+}
+
+.fa-twitter {
+    color: #55ACEE;
+}
+
+.fa-instagram {
+    color: #205F8E;
+}
+
+.fa-facebook-square {
+    color: #3B5898;
+}
+
+.fa-google {
+    color: #DD4B3A;
+}
+
+.fa-basketball-ball {
+    color: #DD4B3A
+}
+
+.ml-3,
+.mx-3 {
+    margin-left: 1rem !important;
+}
+
+.media .img-fluid {
+    height: 200px;
+
+}
+
+/* Middle */
+.mid {
+    position: relative;
+    margin: -120px;
+}
+
+/* Work With Us */
+.sendbtn {
+    background-color: #9C2AB0;
+    border-color: #9C2AB0;
+    font-size: 12px;
+    outline: none;
+    color: white;
+    border-radius: 4px;
+}
+
+.sendbtn:hover {
+    background-color: #9C2AB0;
+    border-color: #9C2AB0;
+    color: #ffffff;
+    outline: none;
+    border-radius: 4px;
+}
+
+.sendbtn:focus {
+    background-color: #9C2AB0;
+    border-color: #9C2AB0;
+    outline: none;
+    border-radius: 4px;
+}
+
+.workcolor {
+    color: #969696;
+    padding: 5px 0;
+}
+
+.form-control {
+    border-bottom: 1px solid #969696 !important;
+    border: none;
+    border-radius: 0 !important;
+
+
+}
+
+
+
+.header {
+    color: #3C4857;
+}
+
+/* Footer */
+.footer {
+
+    overflow: hidden;
+}
+
+.footer>a {
+    float: left;
+    color: #3C4857;
+    text-align: center;
+    padding: 2px 10px;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 900;
+}
+
+.footer p {
+    float: right;
+    color: #3C4857;
+    text-align: center;
+    padding: 2px 10px;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 900;
+}
+
+.footer p a {
+    text-decoration: none;
+}
